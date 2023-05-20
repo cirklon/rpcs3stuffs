@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="42">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>12</ID>
+      <Description>"client one name"</Description>
+      <Color>8080FF</Color>
+      <VariableType>String</VariableType>
+      <Length>11</Length>
+      <Unicode>0</Unicode>
+      <CodePage>0</CodePage>
+      <ZeroTerminate>1</ZeroTerminate>
+      <Address>301341F90</Address>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Set Value</Action>
+          <Keys>
+            <Key>112</Key>
+          </Keys>
+          <Value>ky</Value>
+          <ID>0</ID>
+          <ActivateSound>Activate</ActivateSound>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>19</ID>
+      <Description>"client two name"</Description>
+      <Color>8080FF</Color>
+      <VariableType>String</VariableType>
+      <Length>15</Length>
+      <Unicode>0</Unicode>
+      <CodePage>0</CodePage>
+      <ZeroTerminate>1</ZeroTerminate>
+      <Address>301345690</Address>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Set Value</Action>
+          <Keys>
+            <Key>114</Key>
+          </Keys>
+          <Value>BlackpoolPaul83</Value>
+          <ID>0</ID>
+          <ActivateSound>Activate</ActivateSound>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>52</ID>
+      <Description>"client three name"</Description>
+      <Color>8080FF</Color>
+      <VariableType>String</VariableType>
+      <Length>8</Length>
+      <Unicode>0</Unicode>
+      <CodePage>0</CodePage>
+      <ZeroTerminate>1</ZeroTerminate>
+      <Address>301348D90</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>53</ID>
+      <Description>"cardtitle_schooled"</Description>
+      <Color>80FF00</Color>
+      <VariableType>String</VariableType>
+      <Length>24</Length>
+      <Unicode>0</Unicode>
+      <CodePage>0</CodePage>
+      <ZeroTerminate>1</ZeroTerminate>
+      <Address>331C810B3</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>58</ID>
+      <Description>"cardicon_hummer"</Description>
+      <Color>80FF00</Color>
+      <VariableType>String</VariableType>
+      <Length>24</Length>
+      <Unicode>0</Unicode>
+      <CodePage>0</CodePage>
+      <ZeroTerminate>1</ZeroTerminate>
+      <Address>331C84AE7</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>54</ID>
+      <Description>"schooled"</Description>
+      <Color>80FF00</Color>
+      <VariableType>String</VariableType>
+      <Length>9</Length>
+      <Unicode>0</Unicode>
+      <CodePage>0</CodePage>
+      <ZeroTerminate>1</ZeroTerminate>
+      <Address>331BC2B12</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>57</ID>
+      <Description>"perk_extendedmeleerange"</Description>
+      <Color>0080FF</Color>
+      <VariableType>Custom</VariableType>
+      <CustomType>Float Big Endian</CustomType>
+      <Address>301C9A88C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>56</ID>
+      <Description>"ps[weapanim]"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <Color>FF0000</Color>
+      <VariableType>Byte</VariableType>
+      <Address>30133EEEB</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>60</ID>
+      <Description>"ps[weapontime]"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <Color>FF0000</Color>
+      <VariableType>Byte</VariableType>
+      <Address>30133EEEF</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>61</ID>
+      <Description>"ps[weapondelay]"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <Color>FF0000</Color>
+      <VariableType>Byte</VariableType>
+      <Address>30133EEF3</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>62</ID>
+      <Description>"ps[weaponrestrictkicktime] "</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <Color>FF0000</Color>
+      <VariableType>Byte</VariableType>
+      <Address>30133EEF7</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>63</ID>
+      <Description>"ps[weaponstate]"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <Color>FF0000</Color>
+      <VariableType>Byte</VariableType>
+      <Address>30133EEFB</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>64</ID>
+      <Description>"ps[weaponstate][left]"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <Color>FF0000</Color>
+      <VariableType>Byte</VariableType>
+      <Address>30133EF17</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>65</ID>
+      <Description>"flare_mp[holdfiretime] * 1000"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <Color>00FFFF</Color>
+      <VariableType>Custom</VariableType>
+      <CustomType>4 Byte Big Endian</CustomType>
+      <Address>33202F060</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>70</ID>
+      <Description>"semtex_mp[holdfiretime] * 1000"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <Color>00FFFF</Color>
+      <VariableType>Custom</VariableType>
+      <CustomType>4 Byte Big Endian</CustomType>
+      <Address>333041CE0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>71</ID>
+      <Description>"claymore_mp[holdfiretime] * 1000"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <Color>00FFFF</Color>
+      <VariableType>Custom</VariableType>
+      <CustomType>4 Byte Big Endian</CustomType>
+      <Address>333039A9C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>72</ID>
+      <Description>"flash_grenade_mp[holdfiretime] * 1000"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <Color>00FFFF</Color>
+      <VariableType>Custom</VariableType>
+      <CustomType>4 Byte Big Endian</CustomType>
+      <Address>3330617A0</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+  <LuaScript>--Instashoots
+
+function intashoots()
+
+weapanim = readByte('30133EEEB')
+
+if(weapanim == 11 or weapanim == 20 or weapanim == 12)
+
+then
+
+    --right gun
+    writeBytes('30133EEF6', 00, 00)
+    writeBytes('30133EEFA', 00, 00)
+    writeBytes('30133EEF2', 00, 00)
+    writeBytes('30133EEEE', 00, 00)
+
+    --left gun
+    writeBytes('30133EF0A', 00, 00)
+    writeBytes('30133EF0E', 00, 00)
+    writeBytes('30133EF12', 00, 00)
+    writeBytes('30133EF16', 00, 00)
+
+    writeByte ('30133EEEB', 01)
+end
+
+end
+
+instashoot = createTimer(nil, false)
+timer_onTimer(instashoot, intashoots)
+timer_setInterval(instashoot, 1)
+
+
+createHotkey(function () timer_setEnabled(instashoot, true) end, VK_F3)
+createHotkey(function () timer_setEnabled(instashoot, false) end, VK_F4)
+</LuaScript>
+</CheatTable>
